@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/controle-financas/static/js/main.fa8093ee.js",
+    "static/media/bg3.jpg": "/controle-financas/static/media/bg3.095e8319388298ed1d18.jpg",
+    "index.html": "/controle-financas/index.html",
+    "main.fa8093ee.js.map": "/controle-financas/static/js/main.fa8093ee.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fa8093ee.js"
+  ]
+}
